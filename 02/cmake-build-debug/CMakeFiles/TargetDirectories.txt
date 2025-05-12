@@ -1,4 +1,0 @@
-/home/jana/jana/skola/PA2/progtest/02/cmake-build-debug/CMakeFiles/02.dir
-/home/jana/jana/skola/PA2/progtest/02/cmake-build-debug/CMakeFiles/move.dir
-/home/jana/jana/skola/PA2/progtest/02/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jana/jana/skola/PA2/progtest/02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

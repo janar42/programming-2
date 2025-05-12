@@ -1,0 +1,4 @@
+/home/jana/jana/skola/pa/progtest/big/cmake-build-debug/CMakeFiles/big.dir
+/home/jana/jana/skola/pa/progtest/big/cmake-build-debug/CMakeFiles/onefile.dir
+/home/jana/jana/skola/pa/progtest/big/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jana/jana/skola/pa/progtest/big/cmake-build-debug/CMakeFiles/rebuild_cache.dir

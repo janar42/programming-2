@@ -1,0 +1,4 @@
+/home/jana/jana/skola/pa/progtest/06/cmake-build-debug/CMakeFiles/06.dir
+/home/jana/jana/skola/pa/progtest/06/cmake-build-debug/CMakeFiles/try.dir
+/home/jana/jana/skola/pa/progtest/06/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jana/jana/skola/pa/progtest/06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
